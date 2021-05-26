@@ -1,2 +1,3 @@
 # Free-fire-Dumped-libs
-This is the free fire dumped libs for the latest version 
+This is the dumped libs of free fire 1.60.1
+Hope it helps
